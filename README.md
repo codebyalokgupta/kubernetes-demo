@@ -1,8 +1,5 @@
 # Kubernetes 101 & Workshop
-Demo from sixeyed
-git push -u origin master
-git push -u origin master
-git push -u origin master
+Demo by - https://github.com/sixeyed/
 These demo docs at https://is.gd/sinivi.
 
 Session slides at https://is.gd/uquzut.
